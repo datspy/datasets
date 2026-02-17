@@ -1,0 +1,51 @@
+﻿purchase_date,ean,product_name,category,supplier,quantity_purchased,unit_cost,total_cost,currency_code
+01-01-2026,2001,Magic Wand (Plastic),Toys,Hoptimist,250,2.61,652.5,DKK
+01-01-2026,6001,Incense Cones,Home & Kitchen,Crottendorfer,150,2.41,361.5,EUR
+02-01-2026,6003,Kitchen Towel Set,Home & Kitchen,Räder Design,50,7.8,390,EUR
+03-01-2026,2004,Stuffed Bear,Toys,Hoptimist,150,15.48,2322,DKK
+03-01-2026,4004,Travel Guide,Books,Hamelin,50,11.81,590.5,CHF
+03-01-2026,8002,Notebook A5,Stationery & Office Supplies,Hamelin,150,4.35,652.5,CHF
+04-01-2026,1001,Chocolate Frog 50g,Grocery,PRIMAVERA LIFE GMBH,120,3.54,424.8,EUR
+05-01-2026,6004,Ceramic Mug,Home & Kitchen,Räder Design,100,8.71,871,EUR
+06-01-2026,4002,Recipe Book,Books,Hamelin,300,12.54,3762,CHF
+07-01-2026,1003,Organic Wheat 1kg,Grocery,Allgäuer Ölmühle,200,3.64,728,EUR
+07-01-2026,2006,Toy Car Set,Toys,Hoptimist,120,9.32,1118.4,DKK
+08-01-2026,4004,Travel Guide,Books,Hamelin,100,11.96,1196,CHF
+10-01-2026,2002,Bumble Bobble Figure,Toys,Hoptimist,120,3.82,458.4,DKK
+10-01-2026,2003,Wooden Puzzle,Toys,Ravensburger Verlag GmbH,75,12.86,964.5,EUR
+10-01-2026,2005,Building Blocks Set,Toys,Ravensburger Verlag GmbH,50,14.38,719,EUR
+10-01-2026,4002,Recipe Book,Books,Hamelin,300,12.14,3642,CHF
+10-01-2026,9001,Baby & Children's Balm,Baby Products,PRIMAVERA LIFE GMBH,300,4.66,1398,EUR
+11-01-2026,7002,Organic Soap Bar,Health & Personal Care,PRIMAVERA LIFE GMBH,75,4.87,365.25,EUR
+11-01-2026,8001,Pelikan Super Pirate Ink Eraser,Stationery & Office Supplies,Hamelin,120,7.98,957.6,CHF
+14-01-2026,2001,Magic Wand (Plastic),Toys,Hoptimist,250,2.84,710,DKK
+14-01-2026,6002,Scented Candle,Home & Kitchen,Crottendorfer,100,10.64,1064,EUR
+14-01-2026,8001,Pelikan Super Pirate Ink Eraser,Stationery & Office Supplies,Hamelin,200,7.04,1408,CHF
+15-01-2026,3003,Leather Wallet,Fashion,Räder Design,50,19.33,966.5,EUR
+15-01-2026,4003,Art Book,Books,Ravensburger Verlag GmbH,100,18.29,1829,EUR
+16-01-2026,3001,Small Bag,Fashion,Räder Design,300,2.28,684,EUR
+17-01-2026,4001,Children's Book,Books,Ravensburger Verlag GmbH,75,6.14,460.5,EUR
+17-01-2026,7003,Hand Cream 100ml,Health & Personal Care,PRIMAVERA LIFE GMBH,75,8.42,631.5,EUR
+18-01-2026,3003,Leather Wallet,Fashion,Räder Design,200,17.5,3500,EUR
+19-01-2026,4002,Recipe Book,Books,Hamelin,100,10.36,1036,CHF
+19-01-2026,9001,Baby & Children's Balm,Baby Products,PRIMAVERA LIFE GMBH,75,6.35,476.25,EUR
+19-01-2026,9003,Baby Wipes (80pcs),Baby Products,Killer Ink,250,3.72,930,DKK
+20-01-2026,1006,Pasta Organic 500g,Grocery,Ravensburger Verlag GmbH,100,3.13,313,EUR
+20-01-2026,4003,Art Book,Books,Ravensburger Verlag GmbH,50,16.17,808.5,EUR
+20-01-2026,4004,Travel Guide,Books,Hamelin,300,9.26,2778,CHF
+21-01-2026,2002,Bumble Bobble Figure,Toys,Hoptimist,150,3.65,547.5,DKK
+21-01-2026,6002,Scented Candle,Home & Kitchen,Crottendorfer,50,11.93,596.5,EUR
+22-01-2026,2002,Bumble Bobble Figure,Toys,Hoptimist,120,3.02,362.4,DKK
+22-01-2026,9003,Baby Wipes (80pcs),Baby Products,Killer Ink,150,3.81,571.5,DKK
+23-01-2026,1008,Coffee Beans 250g,Grocery,Browin,250,9.49,2372.5,PLN
+23-01-2026,2006,Toy Car Set,Toys,Hoptimist,75,9.59,719.25,DKK
+23-01-2026,3001,Small Bag,Fashion,Räder Design,120,2.3,276,EUR
+23-01-2026,3004,Cotton Scarf,Fashion,Räder Design,150,8.51,1276.5,EUR
+26-01-2026,1002,White Sausage,Grocery,Browin,75,3.73,279.75,PLN
+26-01-2026,9003,Baby Wipes (80pcs),Baby Products,Killer Ink,200,4.68,936,DKK
+27-01-2026,9003,Baby Wipes (80pcs),Baby Products,Killer Ink,150,4.79,718.5,DKK
+28-01-2026,5003,Pet Treats 500g,Pet Supplies,Norbert Schaub GmbH,75,5.3,397.5,PLN
+29-01-2026,8003,Pen Set (5pcs),Stationery & Office Supplies,Hamelin,200,12.81,2562,CHF
+29-01-2026,9003,Baby Wipes (80pcs),Baby Products,Killer Ink,300,5.3,1590,DKK
+31-01-2026,1003,Organic Wheat 1kg,Grocery,Allgäuer Ölmühle,150,3.35,502.5,EUR
+31-01-2026,6002,Scented Candle,Home & Kitchen,Crottendorfer,150,10.32,1548,EUR
